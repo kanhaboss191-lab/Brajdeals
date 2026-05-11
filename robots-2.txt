@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://brajdeals-originals.netlify.app/sitemap.xml
+Sitemap: https://kanhaboss191-lab.github.io/Brajdeals/sitemap.xml
